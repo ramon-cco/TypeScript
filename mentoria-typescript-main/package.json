@@ -1,5 +1,5 @@
 {
-  "name": "intro",
+  "name": "aula-dio",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,12 @@
     "start": "lite-server",
     "watch": "tsc --watch"
   },
-  "author": "Ramon Oliveira",
+  "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "typescript": "^4.7.4"
-  },
   "dependencies": {
     "lite-server": "^2.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
   }
 }
